@@ -1,0 +1,6 @@
+.superpowers/
+node_modules/
+*.tmp
+site_homepage.html
+analyze.js
+inspect_sections.js
